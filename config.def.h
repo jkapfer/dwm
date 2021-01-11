@@ -9,7 +9,7 @@ static int topbar             = 1;        /* 0 means bottom bar */
 static const char *fonts[]          = { "Hack:size=10:antialias=true:autohint=true",
        					"Hack Nerd Font Mono:size=14:antialias=true:autohint=true"
 												};
-static const char dmenufont[]       = "monospace:size=14";
+static const char dmenufont[]       = "monospace:size=10";
 static char normbgcolor[]           = "#222222";
 static char normbordercolor[]       = "#444444";
 static char normfgcolor[]           = "#bbbbbb";
